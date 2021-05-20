@@ -1,0 +1,19 @@
+{
+  "name": "bbn/appui-news",
+  "description": "GUI for managing news and RSS feeds",
+  "keywords": ["news", "rss","php","appui"],
+  "homepage": "https://github.com/nabab/appui-news",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Nabet",
+      "email": "thomas.nabet@gmail.com",
+      "homepage": "https://bbn.solutions",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "bbn/bbn": "dev-master"
+  }
+}
