@@ -1,0 +1,12 @@
+{
+  "text": "News",
+  "icon": "nf nf-fa-newspaper_o",
+  "items": [
+    {
+      "text": "RSS Reader",
+      "num": 1,
+      "icon": "nf nf-fa-rss",
+      "link": "rss"
+    }
+  ]
+}
