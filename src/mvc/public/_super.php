@@ -1,5 +1,5 @@
 <?php
-/** @var $ctrl \bbn\Mvc\Controller */
+/** @var bbn\Mvc\Controller $ctrl */
 if ( !\defined('APPUI_NEWS_ROOT') ){
   define('APPUI_NEWS_ROOT', $ctrl->pluginUrl('appui-news').'/');
 }
